@@ -1,8 +1,8 @@
 ### Hi there 👋 Here is the stuff i have learnt and still learning
 
 
-🔭 I’m currently a Student at Maulana Azad National Institute of Technology
-- 🌱 I’m currently learning Data structures.
+🔭 I’m Graduated from Maulana Azad National Institute of Technology in 2024
+- 🌱 I’m currently learning DevOps.
 - I'm an Enthusiast at Competitive programming on popular platforms Codeforces(begginer).
 - 📫 How to reach me: rishiben18@gmail.com
   
