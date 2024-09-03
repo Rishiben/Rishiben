@@ -7,6 +7,7 @@
 - 📫 How to reach me: rishiben18@gmail.com
   
   <strong>My Skills :</strong> <br/>
-    Programming Languages : C, C++, Python<br/>
-     Databases : MySQL
+    Programming Languages : C++,Javascript,HTML<br/>
+     Databases : MySQL<br/>
+     Frameworks : Node.js,React.js,Express.js,Material-UI
    
